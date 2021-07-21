@@ -1,5 +1,5 @@
 # -Exercises
-For textbooks, competition programming, and other assignments
+このサイトの使い方を勉強中
 
 ## C Language
 ## 2
